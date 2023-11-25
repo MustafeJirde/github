@@ -1,5 +1,5 @@
 # github
-# Mustafe Ibrahim Jirde's CV
+# Mustafe Jirde
 
 ## Personal Information
 - **Nationality:** Somali
